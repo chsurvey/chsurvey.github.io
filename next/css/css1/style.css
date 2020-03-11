@@ -1,0 +1,35 @@
+.box {   
+    border: 0px solid;
+    width: 17%;
+    height: 34%;
+    font-weight:100;
+    font-size: 50;
+    background-color: #FFFFFF;
+    border-color: #000000; }
+
+
+
+.textButton{
+    border: 0px solid;
+    position: relative;
+    left:60px;
+    top: 110px;
+    width: 8%;
+    height: 40%;
+    font-weight:100;
+    font-size:50px;
+    background-color: #FFFFFF;
+    border-color: #000000; }
+.choose{
+    width:400px;
+    height:400px;
+}
+.vs{
+    width:283px;
+    height:283px;
+    margin-top: 58.5px;
+    margin-left: 90px;
+}
+body{
+  background: #b5db92 ;
+}

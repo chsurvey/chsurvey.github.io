@@ -1,0 +1,12 @@
+.box {   
+    border: 2px solid;
+    width: 17%;
+    height: 34%;
+    font-weight: 400;
+    font-size: 80px;
+    background-color: #F5D553;
+    border-color: #000000; }
+
+.box:hover{
+    background-color: #F5F6B7;
+  transition: all 1s ease }
